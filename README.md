@@ -1,9 +1,119 @@
-<h1 align="center">Hi 👋, I'm Ayaka Hitonera</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+# 🌸 Ayaka Hitonera
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+> *Frontend Developer • React Enthusiast • UI/UX Lover*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+## ✨ About Me
+
+こんにちは！ I'm Ayaka, a passionate frontend developer from Japan who loves creating beautiful, intuitive user experiences. I believe in the power of clean code and aesthetic design to make the web a more delightful place.
+
+```javascript
+const ayaka = {
+  location: "Tokyo, Japan 🗾",
+  role: "Frontend Developer",
+  passion: ["Clean Code", "Beautiful UI", "User Experience"],
+  currentFocus: "Building amazing React applications",
+  lifePhilosophy: "Design is not just what it looks like - design is how it works"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Frameworks**
+- ⚛️ **React** - My go-to for building dynamic UIs
+- 💚 **Vue.js** - Elegant and progressive framework
+- 📱 **React Native** - Cross-platform mobile development
+
+### **Styling & Design**
+- 🎨 **Sass/SCSS** - Enhanced CSS with superpowers
+- 🌊 **Tailwind CSS** - Utility-first CSS framework
+- 💅 **Styled Components** - CSS-in-JS magic
+- 🎭 **Emotion** - Performant and flexible CSS-in-JS
+
+### **State Management**
+- 🔄 **Redux Toolkit** - Predictable state container
+- ⚡ **Zustand** - Lightweight state management
+- 🎯 **React Query** - Server state management
+
+### **Build Tools & More**
+- 📦 **Vite** - Lightning fast build tool
+- 🔧 **Webpack** - Module bundler
+- 🚀 **TypeScript** - Type-safe JavaScript
+- 🧪 **Jest & Testing Library** - Testing made simple
+
+---
+
+## 🌟 Featured Projects
+
+### 🎵 **Music Player App**
+*React • Redux • Styled Components*
+
+A minimalist music player with beautiful animations and gesture controls. Features custom audio visualizations and seamless playlist management.
+
+### 🛍️ **E-commerce Dashboard**
+*Vue.js • Vuex • Tailwind CSS*
+
+Modern admin dashboard with real-time analytics, inventory management, and responsive design. Built with performance and accessibility in mind.
+
+### 📝 **Task Management System**
+*React • TypeScript • Sass*
+
+Collaborative task manager with drag-and-drop functionality, real-time updates, and intuitive user interface inspired by Japanese minimalism.
+
+---
+
+## 🎨 Design Philosophy
+
+> *"Simplicity is the ultimate sophistication"*
+
+I believe in:
+- **Minimalist Design** - Less is more, focus on what matters
+- **User-Centric Approach** - Every pixel serves a purpose
+- **Accessibility First** - Technology should be inclusive
+- **Performance Matters** - Beautiful AND fast applications
+
+---
+
+## 📈 GitHub Stats
+
+```
+🔥 Streak: Building amazing UIs every day
+⭐ Favorite Language: JavaScript/TypeScript
+🎯 Focus: React Ecosystem & Modern CSS
+📚 Always Learning: Latest web technologies
+```
+
+---
+
+## 🌸 Let's Connect!
+
+- 💼 **Portfolio**: [ayaka-dev.com](https://ayaka-dev.com)
+- 📧 **Email**: hello@ayaka-dev.com
+- 🐦 **Twitter**: [@ayaka_codes](https://twitter.com/ayaka_codes)
+- 💼 **LinkedIn**: [Ayaka Hitonera](https://linkedin.com/in/ayaka-hitonera)
+
+---
+
+## 💝 Fun Facts
+
+- 🍵 Powered by green tea and good music
+- 🌸 Cherry blossom season is my favorite time to code
+- 📚 Love reading about design patterns and UX psychology
+- 🎮 Nintendo enthusiast & indie game lover
+- 🏔️ Weekend hiker exploring Japan's beautiful mountains
+
+---
+
+*"Code with passion, design with purpose, create with love"*
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-pink" alt="Made with love">
+  <img src="https://img.shields.io/badge/React-⚛️-61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-💚-4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Tailwind-🌊-38B2AC" alt="Tailwind">
+</div>
